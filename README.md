@@ -4,4 +4,4 @@
 
 ## Тут должен быть всеобемлющий текст "about my life" и все такое
 
-![Пирожочек]("C:\Users\danil\Desktop\photo_2025-03-29_14-53-31.jpg")
+![Image](https://github.com/user-attachments/assets/21310338-4115-4b3f-8225-3ef2e32e5850)
