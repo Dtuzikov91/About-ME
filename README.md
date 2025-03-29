@@ -4,4 +4,4 @@
 
 ## Тут должен быть всеобемлющий текст "about my life" и все такое
 
-![Image](https://github.com/user-attachments/assets/21310338-4115-4b3f-8225-3ef2e32e5850)
+![Image](https://github.com/user-attachments/assets/21310338-4115-4b3f-8225-3ef2e32e5850 "Пирожочек")
